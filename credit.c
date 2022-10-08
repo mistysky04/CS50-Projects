@@ -1,3 +1,5 @@
+//Prompts user for number, ouputs validity of the prompt as a credit card # and displays type of card (Amex, Visa, MC)
+
 #include <cs50.h>
 #include <stdio.h>
 #include <math.h>
