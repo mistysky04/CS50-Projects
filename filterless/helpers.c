@@ -1,3 +1,5 @@
+//Applies grayscale, sepia, reflect, and blur filters to provided image files via "$ ./filter -g/s/r/b INFILE.bmp OUTFILE.bmp"
+
 #include "helpers.h"
 #include <math.h>
 
