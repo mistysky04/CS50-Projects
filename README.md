@@ -1,6 +1,8 @@
 # CS50-Projects
 Completed projects from Harvard's CS50 Introduction to Computer Science course
 
+A description of code functionality is commented at the top of each file
+
 Certain projects had pre-prepared code to aid students with the completion of the project.
 This includes "Filter-less" in which the student-done code was specifically in the "Helpers.h" file.
 However, the majority (if not all) of the work in each file was done by the students themselves.
