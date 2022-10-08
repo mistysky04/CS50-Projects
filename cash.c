@@ -1,3 +1,5 @@
+//GREEDY ALGORITHM - Prompts user for number of cents owed by customer, outputs minimum number of coins to produce given change
+
 #include <cs50.h>
 #include <stdio.h>
 
