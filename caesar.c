@@ -1,3 +1,5 @@
+//Input numerical key for shifting of characters, prompts user for plaintext, outputs ciphertext (plaintext shifted key # of times)
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
