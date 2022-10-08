@@ -1,4 +1,4 @@
-//User inputs rearranged alphabet to act as cipher key, program prompts user for plaintext, outputs ciphertext created with given key
+//User inputs rearranged alphabet to act as cipher key, program prompts user for plaintext, outputs ciphertext created by substituting letters with given key
 
 #include <cs50.h>
 #include <stdio.h>
