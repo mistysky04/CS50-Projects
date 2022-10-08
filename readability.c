@@ -1,3 +1,5 @@
+//Prompts user for sentence, outputs reading grade of given input based on amount of letters, words, and sentences using Coleman-Liau index
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
