@@ -1,3 +1,5 @@
+//User inputs image file to be recovered, outputs file containing recovered images i.e. images are now able to be viewed by the user
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
