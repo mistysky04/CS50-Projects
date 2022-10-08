@@ -1,3 +1,5 @@
+//Prompts user to provide words for 2 unique players, outputs winner based on scrabble score of inputted words
+
 #include <ctype.h>
 #include <cs50.h>
 #include <stdio.h>
