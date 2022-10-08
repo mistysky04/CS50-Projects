@@ -1,3 +1,6 @@
+//User inputs names of candidates, program prompts user for number of voters in election followed by their choices for candidates, outputs winner of election
+//Candidates with same number of votes will TIE i.e. multiple names will be printed
+
 #include <cs50.h>
 #include <stdio.h>
 #include <string.h>
